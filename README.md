@@ -13,10 +13,10 @@ A simple and elegant weather application that provides real-time weather updates
 
 🖼️ Screenshots:
 
-📍 Chinchvad, IN
+📍 Chinchvad, IN:
 ![Chinchvad Weather](images/Screenshot 2025-08-10 173000.png)  
 
-📍 Nagpur, IN
+📍 Nagpur, IN:
 ![Nagpur Weather](images/Screenshot 2025-08-10 172928.png)
 
 🛠️ Tech Stack:
