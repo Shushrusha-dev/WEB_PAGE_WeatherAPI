@@ -2,6 +2,7 @@
 A simple and elegant weather application that provides real-time weather updates for any city in the world.
 
 🚀 Features
+📍 Detect current location automatically
 🌍 Search weather by city name
 ☁️ Displays cloud status
 🌡️ Current temperature in Celsius
@@ -11,6 +12,7 @@ A simple and elegant weather application that provides real-time weather updates
 📱 Clean and responsive UI
 
 🖼️ Screenshots
+
 📍 Chinchvad, IN
 
 
@@ -38,7 +40,7 @@ Get instant weather details including temperature, humidity, wind speed, and sun
 📌 Future Enhancements
 🌐 Add support for multiple languages
 📊 5-day weather forecast
-📍 Detect current location automatically
+
 
 
 
